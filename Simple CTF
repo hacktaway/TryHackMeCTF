@@ -1,0 +1,5 @@
+Principal Webiste:https://tryhackme.com
+2.CTF link: https://www.tryhackme.com/room/easyctf
+```
+First we want to enumerate the machine for open ports with Nmap (nmap -A <ip>)
+
